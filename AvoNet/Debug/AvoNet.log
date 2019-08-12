@@ -1,0 +1,11 @@
+﻿  BitMap.cpp
+  CMatrix.cpp
+G:\Programming\C++\AvoNet\AvoNet\CMatrix.h(14,2): warning C4091:  'typedef ': ignored on left of 'color' when no variable is declared
+G:\Programming\C++\AvoNet\AvoNet\CMatrix.h(14,2): warning C4091:  'typedef ': ignored on left of 'color' when no variable is declared
+  main.cpp
+G:\Programming\C++\AvoNet\AvoNet\CMatrix.cpp(6,10): warning C4101:  'value': unreferenced local variable
+  Generating Code...
+G:\Programming\C++\AvoNet\AvoNet\CMatrix.h(14,2): warning C4091:  'typedef ': ignored on left of 'color' when no variable is declared
+G:\Programming\C++\AvoNet\AvoNet\BitMap.cpp(322): warning C4172:  returning address of local variable or temporary: CSEndpoints
+G:\Programming\C++\AvoNet\AvoNet\BitMap.cpp(311): warning C4172:  returning address of local variable or temporary: LCS_WINDOWS_COLOR_SPACE
+  AvoNet.vcxproj -> G:\Programming\C++\AvoNet\Debug\AvoNet.exe
